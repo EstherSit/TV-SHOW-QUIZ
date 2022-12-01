@@ -1,0 +1,50 @@
+h1{
+color:hsl(16, 100%, 51%);
+text-align:center;
+font-size: 30px;
+background-color: white;
+}
+body{
+    background-color: white;
+}
+.picture{
+    margin: 0;
+   padding-left: 50px;
+    }  
+    
+.questions{
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+}
+.button{
+    background-color:hsl(16, 100%, 51%);
+    margin-left: 50%;
+    font-weight: bold;
+    
+}
+.figcaption{
+    margin-left: 20%;
+    font-style: italic;
+    font-weight: 200;
+
+}
+.email{
+margin-left: 50%;
+margin-top: 30px;
+}
+.a{
+    color:hsl(16, 100%, 51%)
+}
+.p1{
+    font-weight: bolder;
+}
+.fieldset{
+    border-radius: 3%;
+    background-color: #f2c6a0;
+    border: 0;
+    }
+    .head{
+        border: 0;
+    
+    }
